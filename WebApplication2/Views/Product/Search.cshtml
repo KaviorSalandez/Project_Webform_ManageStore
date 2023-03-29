@@ -1,0 +1,100 @@
+﻿@model IEnumerable<WebApplication2.Models.Product>
+
+@{
+    ViewData["Search"] = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Danh sách bàn phím</h1>
+<div style="display: flex">
+    <div class="col-md-4">
+        Lọc theo thể loại
+        <form id="myForm" action="/Product/Filter" method="Post">
+            <select onchange="submitForm()" name="cid">
+                <option value="0">Chọn tất cả</option>
+                @foreach (Category item in ViewBag.Categoiries)
+                {
+                    <!option value="@item.Id" @(ViewBag.cid == item.Id ?"selected":"") >@item.Name</!option>
+                }
+            </select>
+        </form>
+    </div>
+    <div class="col-md-6">
+        Search
+        <form action="/Product/Search" method="post">
+            <input type="text" name="nameS" value="@ViewBag.name1"></input>
+            <input type="submit" value="Tìm kiếm"></input>
+        </form>
+    </div>
+</div>
+</br>
+</br>
+</br>
+<p style="text-align: end">
+    <a asp-action="Create">Tạo mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Mô tả
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Ảnh
+            </th>
+            <th>
+                Thương hiệu
+            </th>
+            <th>
+                Thể loại
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @string.Format("{0:N0} đ", item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descrip)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock) sản phẩm
+                </td>
+                <td>
+                    <img src="~/image/@Html.DisplayFor(modelItem => item.Image)" width="200px" height="200px" alt="Chưa có ảnh đâu hehe"></img>
+                </td>
+                <td>
+                    @item.BidNavigation.Name
+                </td>
+                <td>
+                    @item.CidNavigation.Name
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        <script>
+            function submitForm() {
+                document.getElementById("myForm").submit();
+            }
+        </script>
+    </tbody>
+</table>

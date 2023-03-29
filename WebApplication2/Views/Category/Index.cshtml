@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Category Manages";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using WebApplication2.Models;
+
+<div class="text-center">
+    <h1 class="display-4">Quản lí thể loại bàn phím</h1>
+    <p>CanDuyKhanh</p>
+</div>
+
+<h1>Danh sách thể loại</h1>
+
+<p style="text-align:end">
+    <a asp-action="Create">Tạo thể loại bàn phím mới</a>
+</p>
+<table class="table" border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Image</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Category item in ViewBag.Categories)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td><img src="~/image/@item.Image" alt="Chua co anh hehe" width="200px" height="150px"></img></td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id  })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

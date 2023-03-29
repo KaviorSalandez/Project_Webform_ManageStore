@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Giới thiệu";
+}
+<h1>@ViewData["Title"]</h1>
+<style>
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #eb3b5a;
+        line-height: 1.2;
+    }
+
+    #wapper {
+        max-width: 600px;
+        background-color: #fff;
+        margin: 30px auto;
+        padding: 20px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    }
+
+    h1 {
+        padding: 20px 0px;
+        text-align: center;
+    }
+
+    ul.list-post li {
+        display: flex
+    }
+
+    ul.ist-post li .post-thumb {
+        flex: 0 0 30%;
+        padding-right: 15px;
+    }
+
+    ul.list-post li .post-thumb img {
+        max-width: 100%;
+    }
+
+    ul.list-post .post-title {
+        font-size: 1.1rem;
+        font-weight: bold;
+        color: #333;
+        display: block;
+        padding-bottom: 10px;
+        transition: color 0.3s;
+    }
+
+    ul.list-post li {
+        margin-bottom: 20px;
+    }
+
+        ul.list-post li:hover .post-title {
+            color: #971928;
+        }
+
+    ul.list-post .post-excerpt {
+        color: #5b5b5b;
+    }
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu về KStore</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="wapper">
+        <h1></h1>
+        <ul class="list-post">
+            <li>
+                <a href="" class="post-thumb">
+                    <img src="images/pic-1.jpg" alt="">
+                </a>
+                <div class="more-info">
+                    <a href="" class="post-title">
+                        Tầm nhìn
+                    </a>
+                    <p class="post-excerpt">
+                        Xây dựng một doanh nghiệp vững mạnh về tài chính và vững chãi về đời sống tinh thần.<br />
+                        Doanh nghiệp hạnh phúc và phụng sự, góp phần xây dựng xã hội phồn vinh.<br />
+                        Phủ sóng tất cả các tỉnh/ thành phố lớn tại Việt Nam cung cấp các sản phẩm giá tốt, mang lại sự an tâm, tin tưởng và các trải nghiệm hài lòng cho khách hàng.<br />
+                    </p>
+                </div>
+            </li>
+            <li>
+                <a href="" class="post-thumb">
+                    <img src="images/pic-2.jpg" alt="">
+                </a>
+                <div class="more-info">
+                    <a href="" class="post-title">
+                        Cam kết của KStore
+                    </a>
+                    <p class="post-excerpt">
+                        Đem đến cho khách hàng các sản phẩm giá tốt, mang lại sự an tâm, tin tưởng.<br />
+                        Đem đến cho nhân viên một môi trường làm việc thân thiện, có nhiều cơ hội phát triển.<br />
+                        Đem đến cho quản lý một sân chơi công bằng để thể hiện, đảm bảo cuộc sống sung túc.<br />
+                        Đem đến cho mọi đối tác sự hợp tác chặt chẽ, tôn trọng lẫn nhau & đôi bên cùng phát triển.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <a href="" class="post-thumb">
+                    <img src="images/pic-2.jpg" alt="">
+                </a>
+                <div class="more-info">
+                    <a href="" class="post-title">
+                        Mục tiêu hướng tới
+                    </a>
+                    <p class="post-excerpt">
+                        Phát triển cá nhân: Tạo ra môi trường bình đẳng cho các thành viên phát huy năng lực cá nhân & có một đời sống đầy đủ, sung túc cả về vật chất lẫn đời sống tinh thần.<br />
+                        Môi trường làm việc: Xây dựng môi trường làm việc đoàn kết, thương yêu nhau trên giá trị cốt lõi của tình huynh đệ.<br />
+                        Đóng góp xã hội: Tạo ra hàng ngàn việc làm, đóng thuế đầy đủ. Tích cực tham gia các hoạt động thiện nguyện, cứu trợ các hoàn cảnh khó khăn trong xã hội..
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    .image-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+        .image-container img {
+            width: 47%;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+</style>
+<div class="text-center">
+    <h1 class="display-4">Welcome to KStore 2023</h1>
+    <div class="image-container">
+        <img src="~/image/img1.jpg" alt="Image 1" title="Image 1">
+        <img src="~/image/img2.jpg" alt="Image 2" title="Image 2">
+        <img src="~/image/img3.jpg" alt="Image 3" title="Image 3">
+        <img src="~/image/img4.jpg" alt="Image 4" title="Image 4">
+    </div>
+</div>

@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\11875-family-man-woman-boy-boy-icon.png",
+      "PackagePath": "staticwebassets\\image\\11875-family-man-woman-boy-boy-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\1402478562_cap-tin-hieu-hai-dau-usb-3-0-uniteky-c412-1.jpg",
+      "PackagePath": "staticwebassets\\image\\1402478562_cap-tin-hieu-hai-dau-usb-3-0-uniteky-c412-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\17714_ban_phim_razer_pokemon_pikachu_backlit_keyboard.jpg",
+      "PackagePath": "staticwebassets\\image\\17714_ban_phim_razer_pokemon_pikachu_backlit_keyboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\18315_ban_phim_co_keychron_k8_gateron_switch_nhom_hotswap.jpg",
+      "PackagePath": "staticwebassets\\image\\18315_ban_phim_co_keychron_k8_gateron_switch_nhom_hotswap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\20871_ban_phim_co_leopold_fc750r_pd_black_grey_yellowfont_cherry_red_switch.jpg",
+      "PackagePath": "staticwebassets\\image\\20871_ban_phim_co_leopold_fc750r_pd_black_grey_yellowfont_cherry_red_switch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\280943883_532388838582411_656724670726108446_n.jpg",
+      "PackagePath": "staticwebassets\\image\\280943883_532388838582411_656724670726108446_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\28563_ba__n_phi__m_c___logitech_g_pro_gaming__usb__1.jpg",
+      "PackagePath": "staticwebassets\\image\\28563_ba__n_phi__m_c___logitech_g_pro_gaming__usb__1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\323344155_712424453791324_6587861947590854289_n.jpg",
+      "PackagePath": "staticwebassets\\image\\323344155_712424453791324_6587861947590854289_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\323900099_491543909769219_4913779404044937231_n.jpg",
+      "PackagePath": "staticwebassets\\image\\323900099_491543909769219_4913779404044937231_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\6235_7.jpg",
+      "PackagePath": "staticwebassets\\image\\6235_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\6236_logitech_g213_prodigy_rgb_gaming_keyboard_nbhzljgbkd.png",
+      "PackagePath": "staticwebassets\\image\\6236_logitech_g213_prodigy_rgb_gaming_keyboard_nbhzljgbkd.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\65165_ban_phim_co_khong_day_akko_3068b_multi_mode_black_gold_purple_sw_akko_cs_jelly_usb_rgb_hotswap_0002_03.jpg",
+      "PackagePath": "staticwebassets\\image\\65165_ban_phim_co_khong_day_akko_3068b_multi_mode_black_gold_purple_sw_akko_cs_jelly_usb_rgb_hotswap_0002_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\66806051_1218436851661606_3283874008168136704_n.jpg",
+      "PackagePath": "staticwebassets\\image\\66806051_1218436851661606_3283874008168136704_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\810c9564f4417cac4a3ffda11eb65328.jpg",
+      "PackagePath": "staticwebassets\\image\\810c9564f4417cac4a3ffda11eb65328.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\92ddb950df13687710db87a48e413a6a.jpg",
+      "PackagePath": "staticwebassets\\image\\92ddb950df13687710db87a48e413a6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\Apps-preferences-desktop-user-password-icon.png",
+      "PackagePath": "staticwebassets\\image\\Apps-preferences-desktop-user-password-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\Caucasian-Female-Boss-icon.png",
+      "PackagePath": "staticwebassets\\image\\Caucasian-Female-Boss-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\Creature-Grape-Pants-icon.png",
+      "PackagePath": "staticwebassets\\image\\Creature-Grape-Pants-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\My-Computer-icon.png",
+      "PackagePath": "staticwebassets\\image\\My-Computer-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\System-icon.png",
+      "PackagePath": "staticwebassets\\image\\System-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\akko-world-tour-tokyo-3087-02.jpg",
+      "PackagePath": "staticwebassets\\image\\akko-world-tour-tokyo-3087-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\backend.jpg",
+      "PackagePath": "staticwebassets\\image\\backend.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\ban-phim-akko-2-1.jpg",
+      "PackagePath": "staticwebassets\\image\\ban-phim-akko-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\ban-phim-akko-cac-dong-co-tot-khong-gia-bao-nhieu.webp",
+      "PackagePath": "staticwebassets\\image\\ban-phim-akko-cac-dong-co-tot-khong-gia-bao-nhieu.webp"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\ban-phim-co-STEELSERIES-2.gif",
+      "PackagePath": "staticwebassets\\image\\ban-phim-co-STEELSERIES-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\ban-phim-co-blackwidow-x-chroma-1.jpg",
+      "PackagePath": "staticwebassets\\image\\ban-phim-co-blackwidow-x-chroma-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\ban-phim-co-keychron-v1-carbon-black-knob.jpg",
+      "PackagePath": "staticwebassets\\image\\ban-phim-co-keychron-v1-carbon-black-knob.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\bodoi.jpg",
+      "PackagePath": "staticwebassets\\image\\bodoi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\coong cu lap trinh cho face vag youtube.jpg",
+      "PackagePath": "staticwebassets\\image\\coong cu lap trinh cho face vag youtube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\danh-gia-Razer-Blackwidow.jpg",
+      "PackagePath": "staticwebassets\\image\\danh-gia-Razer-Blackwidow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\folder-flower-beige-icon.png",
+      "PackagePath": "staticwebassets\\image\\folder-flower-beige-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\folder-flower-black-icon.png",
+      "PackagePath": "staticwebassets\\image\\folder-flower-black-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\folder-flower-green-icon.png",
+      "PackagePath": "staticwebassets\\image\\folder-flower-green-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\icon-v.png",
+      "PackagePath": "staticwebassets\\image\\icon-v.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\images.jpg",
+      "PackagePath": "staticwebassets\\image\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\img1.jpg",
+      "PackagePath": "staticwebassets\\image\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\img2.jpg",
+      "PackagePath": "staticwebassets\\image\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\img3.jpg",
+      "PackagePath": "staticwebassets\\image\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\img4.jpg",
+      "PackagePath": "staticwebassets\\image\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\password-icon.png",
+      "PackagePath": "staticwebassets\\image\\password-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\photo-1-15668038356392129049117.jpg",
+      "PackagePath": "staticwebassets\\image\\photo-1-15668038356392129049117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\razerblackwidowv3_OGTZ.jpg",
+      "PackagePath": "staticwebassets\\image\\razerblackwidowv3_OGTZ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\t_pink_gaming_keyboard__3_-800x800_eb0785c79c594e9a9102d051f7bbae86_1__fc4de5df8a4047c59fce64aca1be1188_master1.jpg",
+      "PackagePath": "staticwebassets\\image\\t_pink_gaming_keyboard__3_-800x800_eb0785c79c594e9a9102d051f7bbae86_1__fc4de5df8a4047c59fce64aca1be1188_master1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\thumbphim-recovered_cad2dec0ac844666925b70d593b5ac10.webp",
+      "PackagePath": "staticwebassets\\image\\thumbphim-recovered_cad2dec0ac844666925b70d593b5ac10.webp"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\tin-hieu-cua-wireless-se-bi-anh-huong-boi-cac-yeu-to-nao-2.jpg",
+      "PackagePath": "staticwebassets\\image\\tin-hieu-cua-wireless-se-bi-anh-huong-boi-cac-yeu-to-nao-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\image\\tải xuống.jfif"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\tải xuống.jpg",
+      "PackagePath": "staticwebassets\\image\\tải xuống.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\usb-flash-drive-icon-in-cartoon-style-isolated-vector-13495462.jpg",
+      "PackagePath": "staticwebassets\\image\\usb-flash-drive-icon-in-cartoon-style-isolated-vector-13495462.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\z4007282398172_57e4642e15f11297563a5312db1b0d80.jpg",
+      "PackagePath": "staticwebassets\\image\\z4007282398172_57e4642e15f11297563a5312db1b0d80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\image\\z4067067284072_08a180df2665654237aa669d8190ccbb.jpg",
+      "PackagePath": "staticwebassets\\image\\z4067067284072_08a180df2665654237aa669d8190ccbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canduykhanh\\source\\repos\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
